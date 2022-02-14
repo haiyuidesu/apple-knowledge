@@ -1,0 +1,790 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>code</key>
+		<string>0Cfg</string>
+		<key>description</key>
+<!-- The <data> element below contains a Ruby object which has been serialized with Marshal.dump. -->
+		<data>
+		BAgw
+		</data>
+		<key>usage</key>
+		<array>
+			<string>SysCfg</string>
+		</array>
+	</dict>
+	<dict>
+		<key>code</key>
+		<string>AAPL</string>
+		<key>description</key>
+		<string>Generic 4CC for Apple, often Creator Code</string>
+		<key>usage</key>
+		<array>
+			<string>Everywhere</string>
+		</array>
+	</dict>
+	<dict>
+		<key>code</key>
+		<string>ADDA</string>
+		<key>description</key>
+<!-- The <data> element below contains a Ruby object which has been serialized with Marshal.dump. -->
+		<data>
+		BAgw
+		</data>
+		<key>usage</key>
+		<array>
+			<string>SysCfg</string>
+		</array>
+	</dict>
+	<dict>
+		<key>code</key>
+		<string>BNCH</string>
+		<key>description</key>
+		<string>Boot Nonce Hash</string>
+		<key>usage</key>
+		<array>
+			<string>APTicket</string>
+		</array>
+	</dict>
+	<dict>
+		<key>code</key>
+		<string>BNDL</string>
+		<key>description</key>
+		<string>Loadable Bundle (plugin)</string>
+		<key>usage</key>
+		<array>
+			<string>macOS</string>
+		</array>
+	</dict>
+	<dict>
+		<key>code</key>
+		<string>BORD</string>
+		<key>description</key>
+		<string>Board ID</string>
+		<key>usage</key>
+		<array>
+			<string>APTicket</string>
+		</array>
+	</dict>
+	<dict>
+		<key>code</key>
+		<string>CEPO</string>
+		<key>description</key>
+		<string>Certificate Epoch</string>
+		<key>usage</key>
+		<array>
+			<string>APTicket</string>
+		</array>
+	</dict>
+	<dict>
+		<key>code</key>
+		<string>CHIP</string>
+		<key>description</key>
+		<string>Chip ID</string>
+		<key>usage</key>
+		<array>
+			<string>APTicket</string>
+		</array>
+	</dict>
+	<dict>
+		<key>code</key>
+		<string>CLHS</string>
+		<key>description</key>
+<!-- The <data> element below contains a Ruby object which has been serialized with Marshal.dump. -->
+		<data>
+		BAgw
+		</data>
+		<key>usage</key>
+		<array>
+			<string>SysCfg</string>
+		</array>
+	</dict>
+	<dict>
+		<key>code</key>
+		<string>CPRO</string>
+		<key>description</key>
+		<string>Chip Production Status</string>
+		<key>usage</key>
+		<array>
+			<string>Boot Policy</string>
+		</array>
+	</dict>
+	<dict>
+		<key>code</key>
+		<string>CPRV</string>
+		<key>description</key>
+		<string>Chip Revision</string>
+		<key>usage</key>
+		<array>
+			<string>APTicket</string>
+		</array>
+	</dict>
+	<dict>
+		<key>code</key>
+		<string>CSEC</string>
+		<key>description</key>
+		<string>Chip Security Mode</string>
+		<key>usage</key>
+		<array>
+			<string>APTicket</string>
+		</array>
+	</dict>
+	<dict>
+		<key>code</key>
+		<string>ECID</string>
+		<key>description</key>
+		<string>Exclusive Chip ID</string>
+		<key>usage</key>
+		<array>
+			<string>APTicket</string>
+		</array>
+	</dict>
+	<dict>
+		<key>code</key>
+		<string>EPRO</string>
+		<key>description</key>
+		<string>Effective Production Status</string>
+		<key>usage</key>
+		<array>
+			<string>APTicket</string>
+		</array>
+	</dict>
+	<dict>
+		<key>code</key>
+		<string>ESEC</string>
+		<key>description</key>
+		<string>Effective Security Status</string>
+		<key>usage</key>
+		<array>
+			<string>APTicket</string>
+		</array>
+	</dict>
+	<dict>
+		<key>code</key>
+		<string>MANB</string>
+		<key>description</key>
+		<string>Manifest Body</string>
+		<key>usage</key>
+		<array>
+			<string>APTicket</string>
+		</array>
+	</dict>
+	<dict>
+		<key>code</key>
+		<string>MANP</string>
+		<key>description</key>
+		<string>Manifest Properties</string>
+		<key>usage</key>
+		<array>
+			<string>APTicket</string>
+		</array>
+	</dict>
+	<dict>
+		<key>code</key>
+		<string>MOJO</string>
+		<key>description</key>
+		<string>Mojo Debug Flag</string>
+		<key>usage</key>
+		<array>
+			<string>SMC</string>
+		</array>
+	</dict>
+	<dict>
+		<key>code</key>
+		<string>Mod#</string>
+		<key>description</key>
+		<string>Model Number</string>
+		<key>usage</key>
+		<array>
+			<string>FDR</string>
+			<string>SysCfg</string>
+		</array>
+	</dict>
+	<dict>
+		<key>code</key>
+		<string>Regn</string>
+		<key>description</key>
+		<string>Region</string>
+		<key>usage</key>
+		<array>
+			<string>FDR</string>
+			<string>SysCfg</string>
+		</array>
+	</dict>
+	<dict>
+		<key>code</key>
+		<string>SDOM</string>
+		<key>description</key>
+		<string>Security Domain</string>
+		<key>usage</key>
+		<array>
+			<string>APTicket</string>
+		</array>
+	</dict>
+	<dict>
+		<key>code</key>
+		<string>snon</string>
+		<key>description</key>
+		<string>Secure Enclave Processor Boot Nonce Hash</string>
+		<key>usage</key>
+		<array>
+			<string>APTicket</string>
+		</array>
+	</dict>
+	<dict>
+		<key>code</key>
+		<string>SrNm</string>
+		<key>description</key>
+		<string>Serial Number</string>
+		<key>usage</key>
+		<array>
+			<string>SysCfg</string>
+		</array>
+	</dict>
+	<dict>
+		<key>code</key>
+		<string>WSKU</string>
+		<key>description</key>
+<!-- The <data> element below contains a Ruby object which has been serialized with Marshal.dump. -->
+		<data>
+		BAgw
+		</data>
+		<key>usage</key>
+		<array>
+			<string>SysCfg</string>
+		</array>
+	</dict>
+	<dict>
+		<key>code</key>
+		<string>anef</string>
+		<key>description</key>
+		<string>Apple Neural Engine Firmware</string>
+		<key>usage</key>
+		<array>
+			<string>Firmware</string>
+		</array>
+	</dict>
+	<dict>
+		<key>code</key>
+		<string>ansf</string>
+		<key>description</key>
+		<string>Apple NAND Storage Firmware</string>
+		<key>usage</key>
+		<array>
+			<string>Firmware</string>
+		</array>
+	</dict>
+	<dict>
+		<key>code</key>
+		<string>aopf</string>
+		<key>description</key>
+		<string>Always-on-Processor Firmware</string>
+		<key>usage</key>
+		<array>
+			<string>Firmware</string>
+		</array>
+	</dict>
+	<dict>
+		<key>code</key>
+		<string>appv</string>
+		<key>description</key>
+<!-- The <data> element below contains a Ruby object which has been serialized with Marshal.dump. -->
+		<data>
+		BAgw
+		</data>
+		<key>usage</key>
+		<array>
+			<string>FDR</string>
+			<string>SysCfg</string>
+		</array>
+	</dict>
+	<dict>
+		<key>code</key>
+		<string>aubt</string>
+		<key>description</key>
+<!-- The <data> element below contains a Ruby object which has been serialized with Marshal.dump. -->
+		<data>
+		BAgw
+		</data>
+		<key>usage</key>
+		<array/>
+	</dict>
+	<dict>
+		<key>code</key>
+		<string>auxi</string>
+		<key>description</key>
+		<string>Auxiliary Kernel Cache Image4 Hash</string>
+		<key>usage</key>
+		<array>
+			<string>Boot Policy</string>
+		</array>
+	</dict>
+	<dict>
+		<key>code</key>
+		<string>auxp</string>
+		<key>description</key>
+		<string>User Authorized Kext List Hash</string>
+		<key>usage</key>
+		<array>
+			<string>Boot Policy</string>
+		</array>
+	</dict>
+	<dict>
+		<key>code</key>
+		<string>auxr</string>
+		<key>description</key>
+		<string>Kext Receipt Hash</string>
+		<key>usage</key>
+		<array>
+			<string>Boot Policy</string>
+		</array>
+	</dict>
+	<dict>
+		<key>code</key>
+		<string>avef</string>
+		<key>description</key>
+		<string>Audio / Video Encryption (DRM) Firmware</string>
+		<key>usage</key>
+		<array>
+			<string>Firmware</string>
+		</array>
+	</dict>
+	<dict>
+		<key>code</key>
+		<string>bstc</string>
+		<key>description</key>
+<!-- The <data> element below contains a Ruby object which has been serialized with Marshal.dump. -->
+		<data>
+		BAgw
+		</data>
+		<key>usage</key>
+		<array/>
+	</dict>
+	<dict>
+		<key>code</key>
+		<string>ciof</string>
+		<key>description</key>
+<!-- The <data> element below contains a Ruby object which has been serialized with Marshal.dump. -->
+		<data>
+		BAgw
+		</data>
+		<key>usage</key>
+		<array>
+			<string>Firmware</string>
+		</array>
+	</dict>
+	<dict>
+		<key>code</key>
+		<string>coih</string>
+		<key>description</key>
+		<string>CustomKC or fuOS Image4 Hash</string>
+		<key>usage</key>
+		<array>
+			<string>APTicket</string>
+		</array>
+	</dict>
+	<dict>
+		<key>code</key>
+		<string>csys</string>
+		<key>description</key>
+<!-- The <data> element below contains a Ruby object which has been serialized with Marshal.dump. -->
+		<data>
+		BAgw
+		</data>
+		<key>usage</key>
+		<array/>
+	</dict>
+	<dict>
+		<key>code</key>
+		<string>dCfg</string>
+		<key>description</key>
+<!-- The <data> element below contains a Ruby object which has been serialized with Marshal.dump. -->
+		<data>
+		BAgw
+		</data>
+		<key>usage</key>
+		<array>
+			<string>FDR</string>
+		</array>
+	</dict>
+	<dict>
+		<key>code</key>
+		<string>dcp2</string>
+		<key>description</key>
+<!-- The <data> element below contains a Ruby object which has been serialized with Marshal.dump. -->
+		<data>
+		BAgw
+		</data>
+		<key>usage</key>
+		<array/>
+	</dict>
+	<dict>
+		<key>code</key>
+		<string>dcpf</string>
+		<key>description</key>
+<!-- The <data> element below contains a Ruby object which has been serialized with Marshal.dump. -->
+		<data>
+		BAgw
+		</data>
+		<key>usage</key>
+		<array/>
+	</dict>
+	<dict>
+		<key>code</key>
+		<string>dtre</string>
+		<key>description</key>
+		<string>Device Tree</string>
+		<key>usage</key>
+		<array>
+			<string>Firmware</string>
+		</array>
+	</dict>
+	<dict>
+		<key>code</key>
+		<string>eCfg</string>
+		<key>description</key>
+<!-- The <data> element below contains a Ruby object which has been serialized with Marshal.dump. -->
+		<data>
+		BAgw
+		</data>
+		<key>usage</key>
+		<array>
+			<string>FDR</string>
+			<string>SysCfg</string>
+		</array>
+	</dict>
+	<dict>
+		<key>code</key>
+		<string>fCfg</string>
+		<key>description</key>
+<!-- The <data> element below contains a Ruby object which has been serialized with Marshal.dump. -->
+		<data>
+		BAgw
+		</data>
+		<key>usage</key>
+		<array/>
+	</dict>
+	<dict>
+		<key>code</key>
+		<string>gfxf</string>
+		<key>description</key>
+		<string>Graphics Firmware</string>
+		<key>usage</key>
+		<array>
+			<string>Firmware</string>
+		</array>
+	</dict>
+	<dict>
+		<key>code</key>
+		<string>ibdt</string>
+		<key>description</key>
+		<string>iBoot Data</string>
+		<key>usage</key>
+		<array>
+			<string>Firmware</string>
+		</array>
+	</dict>
+	<dict>
+		<key>code</key>
+		<string>ibot</string>
+		<key>description</key>
+		<string>iBoot</string>
+		<key>usage</key>
+		<array>
+			<string>Firmware</string>
+		</array>
+	</dict>
+	<dict>
+		<key>code</key>
+		<string>ispf</string>
+		<key>description</key>
+		<string>Image Signal Processor Firmware</string>
+		<key>usage</key>
+		<array>
+			<string>Firmware</string>
+		</array>
+	</dict>
+	<dict>
+		<key>code</key>
+		<string>krnl</string>
+		<key>description</key>
+		<string>XNU Kernel</string>
+		<key>usage</key>
+		<array>
+			<string>Firmware</string>
+		</array>
+	</dict>
+	<dict>
+		<key>code</key>
+		<string>ksku</string>
+		<key>description</key>
+<!-- The <data> element below contains a Ruby object which has been serialized with Marshal.dump. -->
+		<data>
+		BAgw
+		</data>
+		<key>usage</key>
+		<array/>
+	</dict>
+	<dict>
+		<key>code</key>
+		<string>kuid</string>
+		<key>description</key>
+		<string>Key Exchange Key Group UUID</string>
+		<key>usage</key>
+		<array>
+			<string>Boot Policy</string>
+		</array>
+	</dict>
+	<dict>
+		<key>code</key>
+		<string>logo</string>
+		<key>description</key>
+		<string>iBoot Apple Logo</string>
+		<key>usage</key>
+		<array>
+			<string>Firmware</string>
+		</array>
+	</dict>
+	<dict>
+		<key>code</key>
+		<string>love</string>
+		<key>description</key>
+		<string>OS Version</string>
+		<key>usage</key>
+		<array>
+			<string>Boot Policy</string>
+		</array>
+	</dict>
+	<dict>
+		<key>code</key>
+		<string>lpnh</string>
+		<key>description</key>
+		<string>Local Policy Nonce Hash</string>
+		<key>usage</key>
+		<array>
+			<string>Boot Policy</string>
+		</array>
+	</dict>
+	<dict>
+		<key>code</key>
+		<string>lpol</string>
+		<key>description</key>
+		<string>Local Policy</string>
+		<key>usage</key>
+		<array>
+			<string>Firmware</string>
+			<string>Boot Policy</string>
+		</array>
+	</dict>
+	<dict>
+		<key>code</key>
+		<string>nsih</string>
+		<key>description</key>
+		<string>Next Stage Image4 Hash</string>
+		<key>usage</key>
+		<array/>
+	</dict>
+	<dict>
+		<key>code</key>
+		<string>pmpf</string>
+		<key>description</key>
+		<string>Power Management Processor Firmware</string>
+		<key>usage</key>
+		<array>
+			<string>Firmware</string>
+		</array>
+	</dict>
+	<dict>
+		<key>code</key>
+		<string>rlg1</string>
+		<key>description</key>
+		<string>Restore logo</string>
+		<key>usage</key>
+		<array>
+			<string>Firmware</string>
+		</array>
+	</dict>
+	<dict>
+		<key>code</key>
+		<string>rlg2</string>
+		<key>description</key>
+		<string>Restore logo</string>
+		<key>usage</key>
+		<array>
+			<string>Firmware</string>
+		</array>
+	</dict>
+	<dict>
+		<key>code</key>
+		<string>ronh</string>
+		<key>description</key>
+		<string>RecoveryOS Policy Nonce Hash</string>
+		<key>usage</key>
+		<array>
+			<string>Boot Policy</string>
+		</array>
+	</dict>
+	<dict>
+		<key>code</key>
+		<string>rpnh</string>
+		<key>description</key>
+		<string>Remote Policy Nonce Hash</string>
+		<key>usage</key>
+		<array>
+			<string>Boot Policy</string>
+		</array>
+	</dict>
+	<dict>
+		<key>code</key>
+		<string>seal</string>
+		<key>description</key>
+<!-- The <data> element below contains a Ruby object which has been serialized with Marshal.dump. -->
+		<data>
+		BAgw
+		</data>
+		<key>usage</key>
+		<array>
+			<string>FDR</string>
+		</array>
+	</dict>
+	<dict>
+		<key>code</key>
+		<string>siof</string>
+		<key>description</key>
+		<string>Smart-IO Firmware</string>
+		<key>usage</key>
+		<array>
+			<string>Firmware</string>
+		</array>
+	</dict>
+	<dict>
+		<key>code</key>
+		<string>sip0</string>
+		<key>description</key>
+		<string>System Integrity Protection (SIP Status)</string>
+		<key>usage</key>
+		<array>
+			<string>Boot Policy</string>
+		</array>
+	</dict>
+	<dict>
+		<key>code</key>
+		<string>sip1</string>
+		<key>description</key>
+		<string>System Integrity Protection (Signed System Volume Status)</string>
+		<key>usage</key>
+		<array>
+			<string>Boot Policy</string>
+		</array>
+	</dict>
+	<dict>
+		<key>code</key>
+		<string>sip2</string>
+		<key>description</key>
+		<string>System Integrity Protection (Kernel CTRR Status)</string>
+		<key>usage</key>
+		<array>
+			<string>Boot Policy</string>
+		</array>
+	</dict>
+	<dict>
+		<key>code</key>
+		<string>sip3</string>
+		<key>description</key>
+		<string>System Integrity Protection (Boot Args Filtering Status)</string>
+		<key>usage</key>
+		<array>
+			<string>Boot Policy</string>
+		</array>
+	</dict>
+	<dict>
+		<key>code</key>
+		<string>smb0</string>
+		<key>description</key>
+		<string>Secure Multi-Boot (Security Mode)</string>
+		<key>usage</key>
+		<array>
+			<string>Boot Policy</string>
+		</array>
+	</dict>
+	<dict>
+		<key>code</key>
+		<string>smb1</string>
+		<key>description</key>
+		<string>Secure Multi-Boot</string>
+		<key>usage</key>
+		<array>
+			<string>Boot Policy</string>
+		</array>
+	</dict>
+	<dict>
+		<key>code</key>
+		<string>smb2</string>
+		<key>description</key>
+		<string>Secure Multi-Boot (3rd Party Kexts Status)</string>
+		<key>usage</key>
+		<array>
+			<string>Boot Policy</string>
+		</array>
+	</dict>
+	<dict>
+		<key>code</key>
+		<string>smb3</string>
+		<key>description</key>
+		<string>Secure Multi-Boot (User-allowed MDM Control)</string>
+		<key>usage</key>
+		<array>
+			<string>Boot Policy</string>
+		</array>
+	</dict>
+	<dict>
+		<key>code</key>
+		<string>smb4</string>
+		<key>description</key>
+		<string>Secure Multi-Boot (DEP-allowed MDM Control)</string>
+		<key>usage</key>
+		<array>
+			<string>Boot Policy</string>
+		</array>
+	</dict>
+	<dict>
+		<key>code</key>
+		<string>tCfg</string>
+		<key>description</key>
+<!-- The <data> element below contains a Ruby object which has been serialized with Marshal.dump. -->
+		<data>
+		BAgw
+		</data>
+		<key>usage</key>
+		<array>
+			<string>FDR</string>
+			<string>SysCfg</string>
+		</array>
+	</dict>
+	<dict>
+		<key>code</key>
+		<string>tmuf</string>
+		<key>description</key>
+<!-- The <data> element below contains a Ruby object which has been serialized with Marshal.dump. -->
+		<data>
+		BAgw
+		</data>
+		<key>usage</key>
+		<array>
+			<string>Firmware</string>
+		</array>
+	</dict>
+	<dict>
+		<key>code</key>
+		<string>vuid</string>
+		<key>description</key>
+		<string>Volume Group UUID</string>
+		<key>usage</key>
+		<array>
+			<string>Boot Policy</string>
+		</array>
+	</dict>
+</array>
+</plist>
